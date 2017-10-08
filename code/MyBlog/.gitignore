@@ -1,0 +1,25 @@
+# Package Files #
+# *.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+/classes/
+/classes/*
+
+#out
+/target/
+/target/*
+/out/
+/out/*
+
+#idea
+/.idea/
+/.idea/workspace.xml
+/.idea/*
+
+
+
